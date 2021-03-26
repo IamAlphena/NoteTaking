@@ -24,6 +24,8 @@ app.get("/api/notes", function (req, res){
 });
 
 app.post("/api/notes", function (req, res){
+    //variable to 
+    
     storage.push(req.body);
 });
 
