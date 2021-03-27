@@ -12,8 +12,8 @@ Professional Portfolio to showcase work and areas of expertise for potential emp
 
 ## Preview
 
-![Preview Image](images/notetaker.PNG)
-![Preview Image](images/notetakernotes.PNG) 
+![Preview Image](https://github.com/IamAlphena/NoteTaking/blob/main/images/notetaker.PNG?raw=true)
+![Preview Image](https://github.com/IamAlphena/NoteTaking/blob/main/images/notetakernotes.PNG?raw=true) 
 
 ## Links
 Visit the site at : https://notetakerhana.herokuapp.com/
